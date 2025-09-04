@@ -10,23 +10,23 @@ const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '.';
 
-const author = process.env.OWNER_NAME || 'Keith';
+const author = process.env.OWNER_NAME || 'Hillary';
 
-const packname = process.env.PACKNAME || 'keith';
+const packname = process.env.PACKNAME || 'Hillary';
 
-const dev = process.env.OWNER_NUMBER || '254748387615';
+const dev = process.env.OWNER_NUMBER || '254740277957';
 
 const DevKeith = dev.split(",");
 
 const antibot = process.env.ANTIBOT || 'true';
 
-const botname = process.env.BOTNAME || 'KEITH-MD';
+const botname = process.env.BOTNAME || 'SILENCER-MD';
 
 const mode = process.env.MODE || 'public';
 
 const sessionName = "session";
 
-const url = process.env.URL || 'https://files.catbox.moe/mikdi0.jpg';
+const url = process.env.URL || 'https://files.catbox.moe/7dvyug.jpg';
 
 const gurl = process.env.GURL || 'https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47';
 
